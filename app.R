@@ -5,7 +5,7 @@
 ## the cell types for that cancer type as well as a scatter plot displaying
 ## correlation of cell frequency against the signature score of genes of
 ## interest
-
+install.packages("Seurat")
 ## load libraries
 library("Seurat")
 library("dplyr")
